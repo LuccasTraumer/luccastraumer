@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Olá! Boas vindas :) <img src="https://github.com/luccastraumer/luccastraumer/assets/Hi.gif" width="30px">
+### Olá! Boas vindas :) <img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/Hi.gif" width="30px">
 
 ---
 
@@ -26,13 +26,13 @@ Amo esportes :occurrence:, escutar musica :notes: e codar :computer:
 
 Onde me encontrar? :mag:  
 
-<a href="https://twitter.com/luccastraumer/"><img src="https://github.com/luccastraumer/luccastraumer/assets/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/luccastraumer)   
+<a href="https://twitter.com/luccastraumer/"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/luccastraumer)   
 
-<a href="https://www.instagram.com/luccastraumer/"><img src="https://github.com/luccastraumer/luccastraumer/assets/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/luccastraumer)  
+<a href="https://www.instagram.com/luccastraumer/"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/luccastraumer)  
 
-<a href="https://www.linkedin.com/in/lucassj"><img src="https://github.com/luccastraumer/luccastraumer/assets/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/lucassj)  
+<a href="https://www.linkedin.com/in/lucassj"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/lucassj)  
 
-<a href="mailto:lucassj.dev@gmail.com"><img src="https://github.com/luccastraumer/luccastraumer/assets/email.png" width="16"></img></a> [Email](mailto:lucassj.dev@gmail.com)  
+<a href="mailto:lucassj.dev@gmail.com"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/email.png" width="16"></img></a> [Email](mailto:lucassj.dev@gmail.com)  
 
 ---  
 
