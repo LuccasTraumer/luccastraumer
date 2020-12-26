@@ -20,7 +20,14 @@ Here are some ideas to get you started:
 
 Sou Desenvolvedor FullStack, iniciei na area neste tão conturbado 2020 (e desde 2019 estudando informática :scream:). Atuou hoje como desenvolvedor na melhor empresa na area de Tecnologia(na minha opnião:grimacing:) que é a [CI&T](https://ciandt.com/).
 
-Amo esportes :occurrence:, escutar musica :notes: e codar :computer:  
+Atualmente estudo no Colégio Técnico de Campinas - (Unicamp) no curso de Desenvolvimento de Sistemas, estou prestes a me formar e pretendo seguir na Area cursando algum curso superior e me mantendo no mercado de trabalho. No meu github é onde hospedo meu codigo quando estou aprendendo algo ou desenvolvendo, para que eu possar ver a minha tragetoria.
+
+
+Amo esportes :runner:, escutar musica :notes: e codar :computer:  
+
+---
+
+Gosto muito de praticar jiu-jitsu, onde eu realmente aprendi sobre meus limites fisicos e a me defender. Também gosto bastante de praticar Muay Thai, ambos os esportes me ensinaram algo fundamental para a profissão que eu viria a praticar, que é sempre aprender e esta aberto a feedbacks para melhorias. Na epóca não tinha tido essa visão mas hoje só tenho a agradecer a todos que me acompanharam nessa jornada e seguem me acompanhando.
 
 ---
 
