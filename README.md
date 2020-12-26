@@ -37,7 +37,7 @@ Onde me encontrar? :mag:
 
 <a href="https://www.instagram.com/luccastraumer/"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/luccastraumer)  
 
-<a href="https://www.linkedin.com/in/lucassj"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/lucassj)  
+<a href="https://www.linkedin.com/in/lucassjesus"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/lucassj)  
 
 <a href="mailto:lucassj.dev@gmail.com"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/email.png" width="16"></img></a> [Email](mailto:lucassj.dev@gmail.com)  
 
