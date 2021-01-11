@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 My name is Lucas Jesus but you can call me by Traumer.I'm a Fullstack Software Engineer at [CI&T](https://ciandt.com/). I'm usually working on Frontend applications with Angular or React and Backend applications with Spring boot or Node APIs using Express.
 
-####🌱 I’m currently learning
+🌱 I’m currently learning
 ---
 
 About best pratices to code applications and casually I read something about Software Architecture.
 Also learning about how to create good Page and how to provider to client a great experience in the Page.
 
-#### 📫 How to reach me:
+📫 How to reach me:
 ---
 Feel free to contact me! I love learn more and meet new people.
 You can reach me in any of these social media:
@@ -39,9 +39,9 @@ You can reach me in any of these social media:
 
 <a href="mailto:lucassj.dev@gmail.com"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/email.png" width="16"></img></a> [Email](mailto:lucassj.dev@gmail.com)  
 
-#### ⚡ Fun fact:
+⚡ Fun fact:
 ---  
-I love pratice Martial Arts specifically two Brazillian Jiu-Jitsu and Muay Thai :kim:. Also almost everything I do is done listening music:notes:.
+I love pratice Martial Arts specifically two Brazillian Jiu-Jitsu and Muay Thai. Also almost everything I do is done listening music:notes:.
 
 ![](https://komarev.com/ghpvc/?username=luccastraumer&color=blue&style=flat)
 
