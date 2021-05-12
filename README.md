@@ -42,8 +42,9 @@ My name is Lucas Jesus but you can call me by Traumer. I'm a Fullstack Software 
     </a>
 </p>
 
+   ## Fun Fact ⚡
 <p>
-   ## Fun Fact ⚡ <br>
+  <br>
    I love pratice Martial Arts specifically two Brazillian Jiu-Jitsu and Muay Thai. Also almost everything I do is done listening music:notes:.
 </p>
 
