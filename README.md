@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    ![image](https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/CIT.jpg)
+    <img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/CIT.jpg"/>
   </a>
 </p>
 
