@@ -1,53 +1,53 @@
-<!--
-**LuccasTraumer/luccastraumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccastraumer&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=luccastraumer&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### Hi there! :) <img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/Hi.gif" width="30px">
-
----
+### Abstract
 
 My name is Lucas Jesus but you can call me by Traumer. I'm a Fullstack Software Engineer at [CI&T](https://ciandt.com/)(in my opinion is the best company to work). I'm usually working on Frontend applications with Angular or React and Backend applications with Spring boot or Node APIs using Express.
 
-![image](https://user-images.githubusercontent.com/16438051/118050322-68656680-b355-11eb-8709-56f89562f5c7.png)
+## Contact :iphone:
 
+<p align="center">
+    <a href="https://github.com/luccastraumer">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/luccastraumer">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:lucassj.dev@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucassj.dev@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/lucassjesus">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lucassjesus/">
+    </a>
+    <a href="https://twitter.com/luccastraumer/"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/luccastraumer)
+    <a href="https://www.instagram.com/luccastraumer/"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/luccastraumer) 
+</p>
 
-🌱 I’m currently learning
----
+<p>
+   ## Fun Fact ⚡ <br>
+   I love pratice Martial Arts specifically two Brazillian Jiu-Jitsu and Muay Thai. Also almost everything I do is done listening music:notes:.
+</p>
 
-About best pratices to code applications and casually I read something about Software Architecture.
-Also learning about how to create good Page and how to provider to client a great experience in the Page.
+<p align="center"> 
 
-📫 How to reach me:
----
-Feel free to contact me! I love learn more and meet new people.
-You can reach me in any of these social media:
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/luccastraumer/count.svg" />
+ </p>
 
-<a href="https://twitter.com/luccastraumer/"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/luccastraumer)   
-
-<a href="https://www.instagram.com/luccastraumer/"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/luccastraumer)  
-
-<a href="https://www.linkedin.com/in/lucassjesus"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/lucassjesus)  
-
-<a href="mailto:lucassj.dev@gmail.com"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/email.png" width="16"></img></a> [Email](mailto:lucassj.dev@gmail.com)  
-
-⚡ Fun fact:
----  
-I love pratice Martial Arts specifically two Brazillian Jiu-Jitsu and Muay Thai. Also almost everything I do is done listening music:notes:.
-
-![](https://komarev.com/ghpvc/?username=luccastraumer&color=blue&style=flat)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccastraumer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccastraumer&show_icons=true&theme=gruvbox)
+</p>
