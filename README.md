@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 My name is Lucas Jesus but you can call me by Traumer. I'm a Fullstack Software Engineer at [CI&T](https://ciandt.com/)(in my opinion is the best company to work). I'm usually working on Frontend applications with Angular or React and Backend applications with Spring boot or Node APIs using Express.
 
+![image](https://user-images.githubusercontent.com/16438051/118050322-68656680-b355-11eb-8709-56f89562f5c7.png)
+
+
 🌱 I’m currently learning
 ---
 
