@@ -34,8 +34,8 @@ My name is Lucas Jesus but you can call me by Traumer. I'm a Fullstack Software 
     <a href="https://www.linkedin.com/in/lucassjesus">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lucassjesus/">
     </a>
-    <a href="https://twitter.com/luccastraumer/"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/luccastraumer)
-    <a href="https://www.instagram.com/luccastraumer/"><img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/luccastraumer) 
+    <a href="https://twitter.com/luccastraumer/"><img src="https://www.freeiconspng.com/thumbs/logo-twitter-png/green-twitter-logo-icon-17.png" width="16"></img></a> [Twitter](https://twitter.com/luccastraumer)
+    <a href="https://instagram.com/luccastraumer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 <p>
