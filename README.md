@@ -25,7 +25,7 @@ My name is Lucas Jesus but you can call me by Traumer. I'm a Fullstack Software 
 
 <p align="center">
     <a href="https://github.com/luccastraumer">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:lucassj.dev@gmail.com">
