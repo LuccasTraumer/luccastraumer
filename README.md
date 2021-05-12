@@ -20,8 +20,10 @@
   </a>
 </p>
 
-<a href="url"><img src="https://avatars.githubusercontent.com/u/16438051?v=4" height="auto" width="200" style="border-radius:50%"></a>
-
+<p>
+  <a href="#"><img src="https://avatars.githubusercontent.com/u/16438051?v=4" height="auto" width="200" style="border-radius:50%"></a>
+</p>
+<br>
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
