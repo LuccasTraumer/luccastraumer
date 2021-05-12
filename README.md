@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/CIT.jpg"/>
+    <img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/CIT.jpg" style="border-radius: 20%"/>
   </a>
 </p>
 
