@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    ![image](https://ton.twitter.com/i/ton/data/dm/1392611211066421253/1392611208382099467/IN2bSije.jpg:large)
+    ![image](https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/CIT.jpg)
   </a>
 </p>
 
