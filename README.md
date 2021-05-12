@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    ![image](https://user-images.githubusercontent.com/16438051/118053163-6225b900-b35a-11eb-85bf-a0d1340b8f50.png)
+    ![image](https://ton.twitter.com/i/ton/data/dm/1392611211066421253/1392611208382099467/IN2bSije.jpg:large)
   </a>
 </p>
 
