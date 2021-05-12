@@ -21,7 +21,9 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://avatars.githubusercontent.com/u/16438051?v=4" height="auto" width="200" style="border-radius:50%"></a>
+  <a href="#">
+    <img src="https://avatars.githubusercontent.com/u/16438051?v=4" height="200px" width="200px" style="border-radius:50%">
+  </a>
 </p>
 
 <br>
