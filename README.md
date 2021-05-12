@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/LuccasTraumer/luccastraumer/main/assets/CIT.jpg" style="border-radius: 20%"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -19,13 +13,6 @@
     />
   </a>
 </p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://avatars.githubusercontent.com/u/16438051?v=4" style="border-radius: 50%" height="200" width="200">
-  </a>
-</p>
-
 <br>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
