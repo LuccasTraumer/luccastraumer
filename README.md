@@ -47,3 +47,4 @@ I love pratice Martial Arts specifically two Brazillian Jiu-Jitsu and Muay Thai.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccastraumer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccastraumer&show_icons=true&theme=gruvbox)
