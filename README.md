@@ -41,6 +41,10 @@ My name is Lucas Jesus but you can call me by Traumer. I'm a Fullstack Software 
     <a href="https://instagram.com/luccastraumer" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
+    
+    <a href="https://luccastraumer.github.io/#/home" target="_blank">
+     <img src="https://img.shields.io/badge/WebPage-%230077B5.svg?&style=for-the-badge&logo=Angular&logoColor=white" target="_blank">
+    </a>
 </p>
 
    ## Fun Fact ⚡
