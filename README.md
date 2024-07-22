@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luccastraumer&label=Profile%20views&color=0e75b6&style=flat" alt="luccastraumer" /> </p>
 
-- 🔭 I’m currently working on [CIANDT](https://ciandt.com/br/pt-br/home) As a Fullstack developer with Spring(JAVA) and Angular 2.x(typescript)
+- 🔭 I’m currently working on [DEAL](https://www.deal.com.br/) As a Frontend developer with Angular (typescript)
 
 - 🌱 I’m currently learning **Angular 2.x and frontend in general**
 
